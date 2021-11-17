@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "bce7a37b-a587-f80e-c791-4306f8a8ee97"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Crystal Structure Analysis",
+  "course_description": "This course covers the following topics: X-ray diffraction: symmetry, space groups, geometry of diffraction, structure factors, phase problem, direct methods, Patterson methods, electron density maps, structure refinement, how to grow good crystals, powder methods, limits of X-ray diffraction methods, and structure data bases.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.069",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
